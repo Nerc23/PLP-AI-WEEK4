@@ -114,3 +114,7 @@ Bonus Task (Extra 10%)
 Innovation Challenge: Propose an AI tool to solve a software engineering problem not covered in class (e.g., automated documentation generation).
 
 Deliverable: 1-page proposal outlining the tool’s purpose, workflow, and impact.
+
+
+__________________________________________________________________________________________________________________________________
+Dataset used: https://www.kaggle.com/competitions/iuss-23-24-automatic-diagnosis-breast-cancer/data
