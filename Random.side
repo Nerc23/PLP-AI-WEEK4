@@ -74,14 +74,14 @@
       "command": "click",
       "target": "id=signin-email",
       "targets": [],
-      "value": "nerciamotsepe@gmail.com"
+      "value": "ddhgkuhgf@gmail.com"
     }, {
       "id": "7df8a416-c1d0-4331-ae29-8efca6c57874",
       "comment": "",
       "command": "click",
       "target": "id=signin-password",
       "targets": [],
-      "value": ""
+      "value": "Tedche123"
     }, {
       "id": "3877d252-9c06-4ad1-aed0-3754ad3804cc",
       "comment": "",
@@ -125,16 +125,16 @@
       "id": "c90ad6a3-2033-4fab-b42d-83e2b3d102c3",
       "comment": "",
       "command": "click",
-      "target": "name=email",
+      "target": "id=signin-email",
       "targets": [],
       "value": "nerciamotsepe@gmail.com"
     }, {
       "id": "58dd73ca-2b24-4628-8fc9-bb05b4522e9c",
       "comment": "",
       "command": "click",
-      "target": "name=password",
+      "target": "id=signin-password",
       "targets": [],
-      "value": ""
+      "value": "Nash123"
     }, {
       "id": "6820bc6d-3b8a-41a6-b7d8-0f3d5b617cba",
       "comment": "",
